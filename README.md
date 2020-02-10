@@ -1,2 +1,2 @@
 # VBA_Homework
-This is homework2_VBAMarket
+This is homework2: VBAMarket
